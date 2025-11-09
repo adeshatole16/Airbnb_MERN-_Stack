@@ -1,17 +1,19 @@
-import React from 'react'
+import React from 'react';
 
-const PlaceImg = ({ place, index = 0 , className=null }) => {
-    if (!place.photos?.length) {
-        return ''
-    }
-    if (!className) {
-        className = 'object-cover rounded'
-    }
-    return (
-        <>
-            <img src={`${place.photos[index]}`} className={className} alt="" />
-        </>
-    )
-}
+const PlaceImg = ({ place, index = 0, className = '' }) => {
+  if (!place.photos || place.photos.length === 0) {
+    return <div className={`bg-gray-200 ${className}`}>No image</div>;
+  }
 
-export default PlaceImg
+  const src = place.photos[index]; // backend now sends full URL
+
+  return (
+    <img
+      className={`object-cover w-full h-full rounded-xl ${className}`}
+      src={src}
+      alt={place.title || 'Place image'}
+    />
+  );
+};
+
+export default PlaceImg;
