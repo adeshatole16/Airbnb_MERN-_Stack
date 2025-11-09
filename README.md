@@ -10,7 +10,7 @@ Clone the project
 
 
 ```bash
-  git clone https://github.com/Mehulparekh144/Airbnb-Clone-using-MERNStack.git 
+  git clone (https://github.com/adeshatole16/Airbnb_MERN-_Stack/edit/adesh/README.md)
   cd project-folder
 ```
 
@@ -39,7 +39,7 @@ https://youtu.be/uJR3ImRvoIE
 
 ## Authors
 
-- [@Mehulparekh144](https://www.github.com/Mehulparekh144)
+- [adeshatole92@gamil.com)
 
 
 ## Environment Variables
