@@ -10,7 +10,7 @@ Clone the project
 
 
 ```bash
-  git clone https://github.com/Mehulparekh144/Airbnb-Clone-using-MERNStack.git 
+  git clone https://https://github.com/adeshatole16/Airbnb_MERN-_Stack/edit/main.git 
   cd project-folder
 ```
 
@@ -39,7 +39,7 @@ https://youtu.be/uJR3ImRvoIE
 
 ## Authors
 
-- [@Mehulparekh144](https://www.github.com/Mehulparekh144)
+- [](https://www.github.com/adeshatole92)
 
 
 ## Environment Variables
@@ -53,7 +53,7 @@ To run this project, you will need to create .env file in api folder and  add th
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mehulparekh144@.com
+If you have any feedback, please reach out to us at adeshatole92@gmail.com
 
 
 ## Tech Stack
