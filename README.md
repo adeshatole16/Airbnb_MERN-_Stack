@@ -25,9 +25,7 @@ For backend
   cd api
   nodemon index.js
 ```
-## Demo
 
-https://youtu.be/uJR3ImRvoIE
 
 
 ## Screenshots
@@ -53,7 +51,7 @@ To run this project, you will need to create .env file in api folder and  add th
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mehulparekh144@.com
+If you have any feedback, please reach out to us at adeshatole@.com
 
 
 ## Tech Stack
